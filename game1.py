@@ -8,7 +8,7 @@ from getname import *
 screen=display.set_mode((600,800))
 
 running=True
-
+ 
 while running:
     for e in event.get():
         print(e)
